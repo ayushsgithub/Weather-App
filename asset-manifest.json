@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.e36cdc08.css",
+    "main.js": "/Weather-App/static/js/main.68a960ed.js",
+    "static/media/green_trees_mountains_sunrise_background_hd_sunrise-1920x1080.jpg": "/Weather-App/static/media/green_trees_mountains_sunrise_background_hd_sunrise-1920x1080.83bf10d79769b0a57526.jpg",
+    "index.html": "/Weather-App/index.html",
+    "main.e36cdc08.css.map": "/Weather-App/static/css/main.e36cdc08.css.map",
+    "main.68a960ed.js.map": "/Weather-App/static/js/main.68a960ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e36cdc08.css",
+    "static/js/main.68a960ed.js"
+  ]
+}
